@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143" started-at="2022-05-06T08:46:45Z" finished-at="2022-05-06T08:46:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143" started-at="2022-05-06T08:46:45Z" finished-at="2022-05-06T08:46:45Z">
+      <class name="ddt.ExcelOperations">
+        <test-method status="PASS" signature="createAndInsertValueInCell()[pri:0, instance:ddt.ExcelOperations@20d3d15a]" name="createAndInsertValueInCell" duration-ms="52" started-at="2022-05-06T14:16:45Z" finished-at="2022-05-06T14:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAndInsertValueInCell -->
+        <test-method status="PASS" signature="getCellValueFromParticularRow()[pri:0, instance:ddt.ExcelOperations@20d3d15a]" name="getCellValueFromParticularRow" duration-ms="3" started-at="2022-05-06T14:16:45Z" finished-at="2022-05-06T14:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCellValueFromParticularRow -->
+        <test-method status="PASS" signature="getCompleteDataFromScepecificSheet()[pri:0, instance:ddt.ExcelOperations@20d3d15a]" name="getCompleteDataFromScepecificSheet" duration-ms="3" started-at="2022-05-06T14:16:45Z" finished-at="2022-05-06T14:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCompleteDataFromScepecificSheet -->
+        <test-method status="PASS" signature="getFirstCellValueFromEachRow()[pri:0, instance:ddt.ExcelOperations@20d3d15a]" name="getFirstCellValueFromEachRow" duration-ms="3" started-at="2022-05-06T14:16:45Z" finished-at="2022-05-06T14:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstCellValueFromEachRow -->
+        <test-method status="PASS" signature="getRowsCountFromSheet()[pri:0, instance:ddt.ExcelOperations@20d3d15a]" name="getRowsCountFromSheet" duration-ms="3" started-at="2022-05-06T14:16:45Z" finished-at="2022-05-06T14:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRowsCountFromSheet -->
+        <test-method status="PASS" signature="getSheetName()[pri:0, instance:ddt.ExcelOperations@20d3d15a]" name="getSheetName" duration-ms="3" started-at="2022-05-06T14:16:45Z" finished-at="2022-05-06T14:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSheetName -->
+      </class> <!-- ddt.ExcelOperations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
